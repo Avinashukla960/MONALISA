@@ -32,5 +32,12 @@ Learn API integration and database handling
 🤝 Contribution
 
 
+Contributions are welcome! Feel free to fork the repository and submit pull requests.
+
+📄 License
+
+This project is open-source and available under the MIT License.
+
+
 
 link -  https://avinashukla960.github.io/MONALISA/
