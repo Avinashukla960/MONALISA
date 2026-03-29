@@ -16,5 +16,21 @@ Database: MongoDB
 Version Control: Git & GitHub
 
 
+🎯 Purpose
+
+This project is built to:
+
+Practice full-stack web development
+Understand eCommerce workflows
+Improve UI/UX design skills
+Learn API integration and database handling
+📌 Future Improvements
+❤️ Wishlist feature
+📊 Admin dashboard
+🔔 Order tracking system
+🌐 Payment gateway integration
+🤝 Contribution
+
+
 
 link -  https://avinashukla960.github.io/MONALISA/
